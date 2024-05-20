@@ -1,5 +1,5 @@
 #ifndef ANAK_H
-#define ANAK _H
+#define ANAK_H
 
 class anak {
 public:
